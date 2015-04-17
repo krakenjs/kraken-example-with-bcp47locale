@@ -8,13 +8,18 @@ The supported locales in the sample are the country and languages:
 * `country=ER` and `lang=fr-FR`
 * `country=US` and `lang=en-US`
 
+## Installation
 
-To see it working with different locales, start the app:
+Clone, install and run.
 
+```shell
+git clone git@github.com:krakenjs/kraken-example-with-bcp47locale.git
+cd kraken-examples-with-bcp47locale
+npm install
+npm start
 ```
-$ npm install
-$ npm start
-```
+
+## Explore the app
 
 In your browser, view [`http://localhost:8000/template4MyLocale?country=ES&lang=es-ES`](http://localhost:8000/template4MyLocale?country=ES&lang=es-ES) for Spanish Spanish in Spain, [`http://localhost:8000/template4MyLocale?country=ES&lang=en-US`](http://localhost:8000/template4MyLocale?country=ES&lang=en-US) for US English in Spain, [`http://localhost:8000/template4MyLocale?country=US&lang=en-US`](http://localhost:8000/template4MyLocale?country=US&lang=en-US) for US English in the US, or [`http://localhost:8000/template4MyLocale?country=ER&lang=fr-FR`](http://localhost:8000/template4MyLocale?country=ER&lang=fr-FR) for Parisian French in Eritrea.
 
