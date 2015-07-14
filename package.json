@@ -1,10 +1,10 @@
 {
-  "name": "kraken-examples-with.bcp47Locale",
+  "name": "kraken-example-with-bcp47Locale",
   "version": "0.1.0",
   "description": "Example of using a BCP-47 style locale selection with Kraken",
   "repository": {
     "type": "git",
-    "url": "https://github.com/krakenjs/kraken-examples"
+    "url": "https://github.com/krakenjs/kraken-example-with-bcp47Locale"
   },
   "keywords": [
     "express",
@@ -32,10 +32,7 @@
     "start": "node index.js"
   },
   "license": "Apache 2.0",
-  "bugs": {
-    "url": "https://github.com/krakenjs/kraken-examples/issues"
-  },
-  "homepage": "https://github.com/krakenjs/kraken-examples",
+  "homepage": "http://krakenjs.com/",
   "dependencies": {
     "adaro": "~0.1.5",
     "debuglog": "^1.0.1",
