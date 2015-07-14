@@ -19,7 +19,6 @@ $ npm start
 In your browser, view [`http://localhost:8000/template4MyLocale?country=ES&lang=es-ES`](http://localhost:8000/template4MyLocale?country=ES&lang=es-ES) for Spanish Spanish in Spain, [`http://localhost:8000/template4MyLocale?country=ES&lang=en-US`](http://localhost:8000/template4MyLocale?country=ES&lang=en-US) for US English in Spain, [`http://localhost:8000/template4MyLocale?country=US&lang=en-US`](http://localhost:8000/template4MyLocale?country=US&lang=en-US) for US English in the US, or [`http://localhost:8000/template4MyLocale?country=ER&lang=fr-FR`](http://localhost:8000/template4MyLocale?country=ER&lang=fr-FR) for Parisian French in Eritrea.
 
 This will automatically set the locale and redirect to the index page in the right locale
-```
 
 ### What does the sample app demonstrate ?
 
